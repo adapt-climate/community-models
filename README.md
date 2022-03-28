@@ -1,2 +1,2 @@
 # community-models
-Fabdev and adapt are working together to build electricity consumption data models for specific areas
+Sharing electricity production and consumption forecast models with the community to promote low carbon electricity usage.
